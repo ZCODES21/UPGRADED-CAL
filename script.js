@@ -346,7 +346,7 @@
             </button>
         <h1 className="header-title">
             <i className="fas fa-ruler"></i>
-            Convy
+            UPCAL - Marjhun Baylon
         </h1>
         </header>
                 
